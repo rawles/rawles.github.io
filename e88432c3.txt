@@ -1,5 +1,5 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://simon.rawles.net/e88432c3.txt
+Comment: https://www.rawles.net/e88432c3.txt
 
 mQGNBFM7L4gBDADd3yg7anlpm6UiK28AfLdQBEp5mMeTtTUqDYMx/VVbyfca/piN
 5vV+s4EJ4kmxaSbHveosrg1T9BuLhmjdAppX48JZyxh9kuJ0Reeubp5L3RJegm2B
